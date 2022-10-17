@@ -73,9 +73,9 @@ img{
     content: '';
     left: 0;
     position: absolute;
-    height: 3px;
+    height: 10%;
     right: 32%;
-    background-color: #50c5fc;
+    background-color: #d0ebb2;
     bottom: -5px;
 
 }
@@ -91,8 +91,8 @@ img{
 .column{
     position: relative;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
     flex: 0 0 100%;
     max-width: 100%;
 }
@@ -116,7 +116,7 @@ img{
     margin-top: -80px;
     text-align: center;
     background: #deeef2;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 .team .team-content h2{
 font-size: 25px;
