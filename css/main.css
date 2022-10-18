@@ -108,14 +108,14 @@ img{
     width: 160px;
     height: auto;
     border-radius: 100%;
-    border: 20px solid #f3f4fa;
+    border: 10px solid #dcdff1;
 }
 
 .team .team-content{
     padding: 80px 20px 20px 20px;
     margin-top: -80px;
     text-align: center;
-    background: #deeef2;
+    background: ##eff1f8;
     border-radius: 10px;
 }
 .team .team-content h2{
