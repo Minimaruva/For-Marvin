@@ -11,7 +11,7 @@ body{
     font-family: 'late', Comic Sans MS;
     color: #434a4b;
     font-weight: 300;
-    background: #a7bed3;
+    background: linear-gradient(#a7bed3, #f1ffc4);
 }
 a{
     color: #343335;
